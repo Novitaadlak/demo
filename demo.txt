@@ -1,2 +1,3 @@
 it is my new text file
 it is for commit
+2nd commit
